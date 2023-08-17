@@ -19,11 +19,11 @@ do {
     $choice = Read-Host "Wybierz opcje"
     switch ($choice) 
     {
-        "1" {PATH\scripts\drivers.ps1}
-        "2" {PATH\scrpits\domain.ps1}
-        "3" {PATH\scrpits\applications.ps1}
-        "4" {PATH\scrpits\iscala.ps1}
-        "4" {PATH\scrpits\policy.ps1}
+        "1" {PATH\drivers.ps1}
+        "2" {PATH\domain.ps1}
+        "3" {PATH\applications.ps1}
+        "4" {PATH\iscala.ps1}
+        "4" {PATH\policy.ps1}
         "q" {exit}
     }
 } 
