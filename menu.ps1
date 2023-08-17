@@ -16,7 +16,7 @@ function Show-Menu {
 
 do {
     Show-Menu
-    $choice = Read-Host "Wybierz opcje"
+    $choice = Read-Host "Choose an option"
     switch ($choice) 
     {
         "1" {PATH\drivers.ps1}
