@@ -1,4 +1,4 @@
-# Applicatons-Domain-iScala-Drivers
+# Applications-Domain-iScala-Drivers
 
 A simple menu I created in my spare time at work to automate setting up computers for users.
 
